@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor
+    company: Durham University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: ''
+    location: Durham, England
+    date_start: '2021-06-15'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description:
+        |2- 
+        The Department of Psychology at Durham University is consistently ranked among the top 5 in the UK and the top 100 in the world. Within the department, the Durham Behavioural Science Team is a group of world-leading behavioural scientists based at Durham University, who provide expert guidance and consultancy focused on understanding and influencing human behaviour.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Our expertise covers a wide range of topics, including equality, diversity and inclusion in the workplace, leadership and decision making, and influencing consumer behaviour. In the public sector, we have focused on redesigning services to improve public health and well-being, as well as facilitating civility and pro-environmental behaviour using evidence-based behavioural insights.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+        We have a strong track record of successful consultancy and partnerships with public, private, and third sector organisations across the UK, US, and Europe.
+
+experience:
+  - title: Teaching Fellow
+    company: Durham University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Durham, England
+    date_start: '2018-08-10'
+    date_end: '2021-06-14'
+    description:
 
 design:
   columns: '2'
